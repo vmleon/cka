@@ -1,0 +1,4 @@
+region = "eu-frankfurt-1"
+tenancy_ocid = ""
+compartment_ocid = ""
+profile = "DEFAULT"
